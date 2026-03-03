@@ -80,3 +80,5 @@ Apaixonado por tecnologia, programação e desenvolvimento de software.
 ## 📄 Licença
 
 Projeto de uso educacional.
+segue o link para download do arquivo executável
+https://drive.google.com/file/d/1UlncdxJcPyAktjFbnheF3jhx3hXVW9yM/view?usp=sharing
